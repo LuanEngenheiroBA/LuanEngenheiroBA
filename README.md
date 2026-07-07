@@ -17,3 +17,25 @@ Minha Rede Socias
 Minhas estatísticas de GitHub: contribuição e uso de linguagens de programação
 
 [![Luan Gabriel GitHub stats](https://github-stats-extended.vercel.app/api?username=LuanEngenheiroBA)](https://github.com/stats-organization/github-stats-extended)
+
+Minhas estatísticas de GitHub: contribuição e uso de linguagens de programação
+
+[![Luan Gabriel GitHub stats](https://github-stats-extended.vercel.app/api?username=LuanEngenheiroBA)](https://github.com/stats-organization/github-stats-extended)
+
+### Minha Linguagem de Programação 
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</div>
