@@ -13,3 +13,7 @@ Minha Rede Socias
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuanEngenheiroBA)
+
+Minhas estatísticas de GitHub: contribuição e uso de linguagens de programação
+
+[![Luan Gabriel GitHub stats](https://github-stats-extended.vercel.app/api?username=LuanEngenheiroBA)](https://github.com/stats-organization/github-stats-extended)
