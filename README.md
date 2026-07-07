@@ -36,4 +36,5 @@ Minhas estatísticas de GitHub: contribuição e uso de linguagens de programaç
 <div style="display: inline_block"><br/>
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LuanEngenheiroBA&langs_count=20&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=LuanEngenheiroBA&langs_count=20&theme=tokyonight)
