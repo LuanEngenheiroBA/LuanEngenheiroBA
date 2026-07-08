@@ -8,10 +8,6 @@ Olá Tudo bem me chamo Luan Gabriel Tenho 24 anos Autista e TDAH sou Natural de 
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RlMGNhMDRxNXczaGRqZzltMXo4eDByN2M3NmJsbGVlNGtjMG1jZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JROape2HEWMf6wh9WL/giphy.gif" witdh=20%>
 
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9qdmVydG82amVod2F5bndjN3E0bGZndWt2aXhreDR1dml2Zms0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6xxeMB3Lgu9gYWJQ05/giphy.gif " witdh=30%> 
-
-
 Minha Rede Socias
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/luanengenheirobr/)
@@ -81,3 +77,5 @@ Quais os softwares e sistemas operacionais que Eu uso
 </div>
 <div style="display: inline_block"><br/>
 <img align="center" alt="OBS STUDIO"  src="https://img.shields.io/badge/-OBS Studio-302E31?style=flat&logo=obsstudio&logoColor=white"/>
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9qdmVydG82amVod2F5bndjN3E0bGZndWt2aXhreDR1dml2Zms0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6xxeMB3Lgu9gYWJQ05/giphy.gif " witdh=30%> 
