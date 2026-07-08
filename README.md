@@ -4,6 +4,11 @@ Estudante de Engenharia de Computação
 
 Olá Tudo bem me chamo Luan Gabriel Tenho 24 anos Autista e TDAH sou Natural de Salvador de Bahia Concluír O Ensino Médio Ceeat Atualmente Cursando Engenharia de computação Unijorge Sou Apaixonado Por Tecnologia,programação,Games,Séries , Filme,animes e doramas Futuro Dev FullStack e Segurança Cibernética
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNnNGk4ejFpeWI2OHM4aTNnbWhhajhkaWNsbnluZmdraHI4dHc5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bIqdxoOVJ2oak/giphy.gif" witdh=30%> 
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RlMGNhMDRxNXczaGRqZzltMXo4eDByN2M3NmJsbGVlNGtjMG1jZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JROape2HEWMf6wh9WL/giphy.gif" witdh=20%>
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9qdmVydG82amVod2F5bndjN3E0bGZndWt2aXhreDR1dml2Zms0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6xxeMB3Lgu9gYWJQ05/giphy.gif " witdh=30%> 
 
 
 Minha Rede Socias
