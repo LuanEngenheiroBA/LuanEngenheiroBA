@@ -1,4 +1,5 @@
 # 🧑🏽‍💻 Luan Gabriel
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJtc3loYnd5c2tjbGI3ODhxYWJqNGJ6Nm11NGQ1ejJjajdtdHJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yOBSV38yqFVLBDPTi9/giphy.gif" heigh="50" align="right" alt="gif na direita">
 
 Estudante de Engenharia de Computação
 
