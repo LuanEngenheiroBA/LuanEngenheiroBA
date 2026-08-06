@@ -41,6 +41,8 @@ Minhas estatísticas de GitHub: contribuição e uso de linguagens de programaç
 </div>
 <div style="display: inline_block"><br/>
 <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<div style="display: inline_block"><br/>
+<img align="center" alt="markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LuanEngenheiroBA&langs_count=20&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=LuanEngenheiroBA&langs_count=20&theme=tokyonight)
 
@@ -58,7 +60,7 @@ Quais os softwares e sistemas operacionais que Eu uso
 [![GoogleChorme](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](Chorome)
 [![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](Edge)
 [![EAGAMES](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](EAGAMES)
-
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)(intellijidea)
 <div style="display: inline_block"><br/>
 <img align="center" alt="adobeacrobatreader"  src="https://img.shields.io/badge/-Adobe Acrobat Reader-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white"/>
 </div>
