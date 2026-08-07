@@ -60,15 +60,13 @@ Quais os softwares e sistemas operacionais que Eu uso
 [![GoogleChorme](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](Chorome)
 [![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](Edge)
 [![EAGAMES](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](EAGAMES)
-[![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](IntelliJ IDEA)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](IntelliJ IDEA)
 <div style="display: inline_block"><br/>
 <img align="center" alt="adobeacrobatreader"  src="https://img.shields.io/badge/-Adobe Acrobat Reader-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white"/>
 </div>
-
 <div style="display": inline_block><br/>
 <img align="center" alt="battle.net" src="https://img.shields.io/badge/-Battle.net-4381C3?style=flat&logo=battledotnet&logoColor=white"/>
 </div>
-
 <div style="display: inline_block"><br/>
 <img src="https://img.shields.io/badge/-Epson-003399?style=flat&logo=epson&logoColor=white"/>
 </div>
