@@ -62,7 +62,6 @@ Quais os softwares e sistemas operacionais que Eu uso
 [![EAGAMES](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](EAGAMES)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 <div style="display: inline_block"><br/>
 <img align="center" alt="adobeacrobatreader"  src="https://img.shields.io/badge/-Adobe Acrobat Reader-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white"/>
 </div>
