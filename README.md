@@ -47,7 +47,7 @@ Minhas estatísticas de GitHub: contribuição e uso de linguagens de programaç
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LuanEngenheiroBA&langs_count=20&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=LuanEngenheiroBA&langs_count=20&theme=tokyonight)
 
 Quais os softwares e sistemas operacionais que Eu uso 
-
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](Windows)   
 [![Microsoft OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](Microsoft )
 [![Microsoft WORD](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](Word)
@@ -61,6 +61,8 @@ Quais os softwares e sistemas operacionais que Eu uso
 [![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](Edge)
 [![EAGAMES](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](EAGAMES)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 <div style="display: inline_block"><br/>
 <img align="center" alt="adobeacrobatreader"  src="https://img.shields.io/badge/-Adobe Acrobat Reader-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white"/>
 </div>
