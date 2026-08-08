@@ -68,20 +68,26 @@ Quais os softwares e sistemas operacionais que Eu uso
 <div style="display: inline_block"><br/>
 <img align="center" alt="adobeacrobatreader"  src="https://img.shields.io/badge/-Adobe Acrobat Reader-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white"/>
 </div>
+
 <div style="display": inline_block><br/>
 <img align="center" alt="battle.net" src="https://img.shields.io/badge/-Battle.net-4381C3?style=flat&logo=battledotnet&logoColor=white"/>
 </div>
+
 <div style="display: inline_block"><br/>
 <img src="https://img.shields.io/badge/-Epson-003399?style=flat&logo=epson&logoColor=white"/>
 </div>
+
 <div style=display: inline_block><br/>
 <img align="center" alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </div>
+
 <div style="display": inline_block><br/>
 <img align="center" alt="nvidia" src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white"/>
 </div>
+
 <div style="display: inline_block"><br/>
 <img align="center" alt="OBS STUDIO"  src="https://img.shields.io/badge/-OBS Studio-302E31?style=flat&logo=obsstudio&logoColor=white"/>
+</div>
   
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczltMWhuamFpZmQxaDl3eWxxeGdwZDU3ODd0NmRwNWNhcjBlczZsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6xxeMB3Lgu9gYWJQ05/giphy.gif" witdh=50 alt=bahia>
 
