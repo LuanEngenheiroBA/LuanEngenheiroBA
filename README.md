@@ -43,7 +43,9 @@ Minhas estatísticas de GitHub: contribuição e uso de linguagens de programaç
 <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <div style="display: inline_block"><br/>
 <img align="center" alt="markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-
+<div style="display": inline_block">br/>
+<img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+</div>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LuanEngenheiroBA&langs_count=20&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=LuanEngenheiroBA&langs_count=20&theme=tokyonight)
 
 Quais os softwares e sistemas operacionais que Eu uso 
