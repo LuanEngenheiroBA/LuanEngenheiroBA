@@ -8,11 +8,7 @@ Olá Tudo bem me chamo Luan Gabriel Tenho 24 anos Autista e TDAH sou Natural de 
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RlMGNhMDRxNXczaGRqZzltMXo4eDByN2M3NmJsbGVlNGtjMG1jZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JROape2HEWMf6wh9WL/giphy.gif" witdh=20%>
 Minha Rede Socias
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 
 </div>
 
